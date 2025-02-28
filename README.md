@@ -1,10 +1,10 @@
-<h1 align="center"> Yo!!! Hiii I'm Ashish kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hiii I'm Ashish kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/ashish-kumar-11b2a5250/"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashish LinkedIn" height='20' width='90'/>
   </a>
   <a href="https://github.com/Ashishkr8802"> 
-    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ashish GitHub" height='20' width='80'/>  
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
   <!-- Streak feature -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishkr8802&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ashish's GitHub Streak" /></p>
+<!--   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishkr8802&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ashish's GitHub Streak" /></p> -->
 </div>
 
 <div align="center">
